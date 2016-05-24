@@ -1,0 +1,7 @@
+{
+  "appname": "irce demo",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "7C671F4A-EF13-4E82-B0D3-F8B858BA4BA8",
+  "buyerid": "test-buyer",
+  "environment": "prod"
+}
